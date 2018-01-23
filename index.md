@@ -1,3 +1,6 @@
+---
+layout: default
+---
 ## Statistical Consulting
 
 ### What we offer
